@@ -1,1 +1,1 @@
-# Linear-Regression-From-Scratch-uding-Python
+# Linear-Regression with Gradient Descent-From-Scratch-using-Python
